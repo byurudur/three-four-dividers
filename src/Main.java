@@ -21,6 +21,7 @@ public class Main {
             }
         }
 
+
         // Output data of 3 & 4 dividends;
         System.out.println("Average of 3 & 4 dividends is: " + sum/number);
     }
